@@ -2,6 +2,7 @@
 - 👀 I’m interested in Node.js
 - 🌱 I’m currently learning Node.js and .Py
 - 📫 Reach me on Discord baltic#1245
+- profetional git cloner
 
 <!---
 balticboi/balticboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
